@@ -68,8 +68,8 @@ making good reasoning repeatable. That turned into a set of open-source
 
 ### 📫 Reach me
 
-<a href="https://www.linkedin.com/in/CHANGE-ME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:CHANGE-ME@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://www.linkedin.com/in/abeytr"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:abeytr.career@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
 <a href="https://github.com/abeytr"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
 
 > *"Capture the rationale, not just the result — the* why *is the durable asset."*
